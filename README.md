@@ -1,4 +1,5 @@
-``Back-end of the task-managment application with integrated auth features``
+## Back-end of the task-managment application with integrated auth features and RESTful API
+## Using technology: TypeScript, Node.js, Nest.js
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
